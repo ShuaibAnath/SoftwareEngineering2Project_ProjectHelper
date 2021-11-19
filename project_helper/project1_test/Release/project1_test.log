@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Student\source\repos\project1_test\project1_test\main.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  AdminPage.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  project1_test.vcxproj -> C:\Users\Student\source\repos\project1_test\Release\project1_test.exe

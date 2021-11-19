@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1_test.vcxproj.AssemblyReference.cache
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1test.AdminViewStudentMarksPage.resources
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1test.HomePage.resources
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1test.LoginPage.resources
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1test.ModulePage.resources
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1test.Rubric.resources
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1test.StudentModulePage.resources
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1_test.vcxproj.GenerateResource.cache
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1_test.vcxproj.CopyComplete
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1test.AdminPage.resources
+C:\Users\Student\source\repos\project1_test\project1_test\x64\Debug\project1test.ViewStudentProject.resources

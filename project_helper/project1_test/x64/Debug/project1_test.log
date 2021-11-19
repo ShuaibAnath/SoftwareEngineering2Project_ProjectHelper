@@ -1,0 +1,3 @@
+﻿  Consider app.config remapping of assembly "System.Runtime.CompilerServices.Unsafe, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" from Version "4.0.4.1" [] to Version "4.0.6.0" [] to solve conflict and get rid of warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2202,5): warning MSB3276: Found conflicts between different versions of the same dependent assembly. Please set the "AutoGenerateBindingRedirects" property to true in the project file. For more information, see http://go.microsoft.com/fwlink/?LinkId=294190.
+  project1_test.vcxproj -> C:\Users\Student\source\repos\project1_test\x64\Debug\project1_test.exe
